@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @shubhamchaubey-js
-- 👀 I’m interested in ... Be a good programmer
+- 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... HTML, Css, Js, React
 - 💞️ I’m looking to collaborate on ... Companies
 - 📫 How to reach me ... Email- ravanshubham30@gmail.com
 - 😄 Pronouns: ... Sir Shubham
-- ⚡ Fun fact: ... I'm intresting
+- ⚡ Fun fact: ... I'm intresting in Chess
 
 <!---
 shubhamchaubey-js/shubhamchaubey-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
